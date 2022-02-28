@@ -30,6 +30,16 @@ En caso de que te quede corto el ejercicio siguele con esto!
 luego de un rato desidio que este sera el logo del negocio <br>
 ![LOGOPASTELERIA](https://user-images.githubusercontent.com/99059463/155939124-56abef4a-74b2-4340-8eb3-d94032be66f6.png)
 
-# MAQUETACION DE PAGINAS DEL CLIENTE
+# MAQUETACION DE PAGINAS DEL CLIENTE <br>
+para la maquetacion de la pagina del cliente se decidio en hacerlo en dos partes; un sera el menu donde se veran los sabores y los adornos que se le podran poner al pastel y al momento de presionar un boton se le redirijira en una nueva pestaña a la segunda pagina que sera donde se pueda levantar la orden; aqui se pediran tanto la especificacion del pastel como los datos de la persona que comprara el pastel para asi poder asegurar el pedido. <br>
+al final ambas paginas se evrian algo asi: <br>
+pagina principal (menu) <br>
+![image](https://user-images.githubusercontent.com/99059463/155940035-933c20f7-8b41-40d0-9249-f954ab8cbacb.png)
+<br>
+segunda pagina (pagina de pedido) <br>
+![image](https://user-images.githubusercontent.com/99059463/155940080-c66b3492-067f-4dc3-b9e7-6010c69c6ec6.png)
+<br>
+se tomo la desiscion de poner pocas decoraciones y pocos sabores debido a que esta es una pagina de prueba pero si se desea se pueden agergar más y con mas detalle.
+
 # MAQUETACION DE PAGINAS DEL PASTELERO
 
