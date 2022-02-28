@@ -26,7 +26,7 @@ En caso de que te quede corto el ejercicio siguele con esto!
 - Bonus de estilos (Intro a CSS)
 - Bonus de Rutas (Navegación en la página)
 - Bonus de despliegue (Montar la página en línea con dominio gratuito)
-#LOGO <br>
-#MAQUETACION DE PAGINAS DEL CLIENTE
-#MAQUETACION DE PAGINAS DEL PASTELERO
+# LOGO <br>
+# MAQUETACION DE PAGINAS DEL CLIENTE
+# MAQUETACION DE PAGINAS DEL PASTELERO
 
