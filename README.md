@@ -34,12 +34,13 @@ luego de un rato desidio que este sera el logo del negocio <br>
 para la maquetacion de la pagina del cliente se decidio en hacerlo en dos partes; un sera el menu donde se veran los sabores y los adornos que se le podran poner al pastel y al momento de presionar un boton se le redirijira en una nueva pestaña a la segunda pagina que sera donde se pueda levantar la orden; aqui se pediran tanto la especificacion del pastel como los datos de la persona que comprara el pastel para asi poder asegurar el pedido. <br>
 al final ambas paginas se evrian algo asi: <br>
 pagina principal (menu) <br>
-![image](https://user-images.githubusercontent.com/99059463/155940035-933c20f7-8b41-40d0-9249-f954ab8cbacb.png)
-<br>
+![image](https://user-images.githubusercontent.com/99059463/156043485-e8015aeb-40ae-42ac-8fb4-d27a7a5ca9bd.png) <br>
 segunda pagina (pagina de pedido) <br>
-![image](https://user-images.githubusercontent.com/99059463/155940080-c66b3492-067f-4dc3-b9e7-6010c69c6ec6.png)
+![image](https://user-images.githubusercontent.com/99059463/156043564-e5c0f384-d726-4923-8667-2b7f74500bed.png) <br>
 <br>
 se tomo la desiscion de poner pocas decoraciones y pocos sabores debido a que esta es una pagina de prueba pero si se desea se pueden agergar más y con mas detalle.
 
 # MAQUETACION DE PAGINAS DEL PASTELERO
+se hizo todo ennuna sola pagina para ahorrar tiempo <br>
+![image](https://user-images.githubusercontent.com/99059463/156043769-dc36528c-36c5-4ab5-8d15-08d2a2e3b608.png) <br><br>
 
