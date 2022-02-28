@@ -27,6 +27,9 @@ En caso de que te quede corto el ejercicio siguele con esto!
 - Bonus de Rutas (Navegación en la página)
 - Bonus de despliegue (Montar la página en línea con dominio gratuito)
 # LOGO <br>
+luego de un rato desidio que este sera el logo del negocio <br>
+![LOGOPASTELERIA](https://user-images.githubusercontent.com/99059463/155939124-56abef4a-74b2-4340-8eb3-d94032be66f6.png)
+
 # MAQUETACION DE PAGINAS DEL CLIENTE
 # MAQUETACION DE PAGINAS DEL PASTELERO
 
