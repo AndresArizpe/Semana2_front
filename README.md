@@ -42,5 +42,6 @@ se tomo la desiscion de poner pocas decoraciones y pocos sabores debido a que es
 
 # MAQUETACION DE PAGINAS DEL PASTELERO
 se hizo todo ennuna sola pagina para ahorrar tiempo <br>
+tambien se decidio agregar un poco de ccs en la zona de las tablas para que sea un poco mas vistoso (especificamente en el lugar de adornos y sabores) agregando el codigo colspan. <br> <br>
 ![image](https://user-images.githubusercontent.com/99059463/156043769-dc36528c-36c5-4ab5-8d15-08d2a2e3b608.png) <br><br>
 
